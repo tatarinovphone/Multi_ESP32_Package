@@ -18,7 +18,7 @@ Having multiple versions installed allows you (and others) to easily switch to t
 
 ___
 
-By the way, subscribe to my [YouTube](http://youtube.com/vishalsoniindia) channel for more projects like this. I also update my upcoming projects on [Instagram](https://www.instagram.com/vishalsoniindia/).
+By the way, subscribe to my [YouTube](https://vishalsoniindia.github.io/redirect-links/youtube-link.html) channel for more projects like this. I also update my upcoming projects on [Instagram](https://vishalsoniindia.github.io/redirect-links/instagram-link.html).
 buy me a coffee! ☕: [Donate](https://github.com/vishalsoniindia/BuyMeCoffee)
 ___
 
@@ -114,7 +114,7 @@ If you want to install a new ESP32 package version in a specific board slot, you
 
 ___
 
-By the way, subscribe to my [YouTube](http://youtube.com/vishalsoniindia) channel for more projects like this. I also update my upcoming projects on [Instagram](https://www.instagram.com/vishalsoniindia/).
+By the way, subscribe to my [YouTube](https://vishalsoniindia.github.io/redirect-links/youtube-link.html) channel for more projects like this. I also update my upcoming projects on [Instagram](https://vishalsoniindia.github.io/redirect-links/instagram-link.html).
 buy me a coffee! ☕: [Donate](https://github.com/vishalsoniindia/BuyMeCoffee)
 ___
 
