@@ -1,4 +1,7 @@
 # Installing Multiple Versions of the ESP32 Board Package in Arduino IDE
+
+Youtube : [https://youtu.be/7D3VCGQMCYM](https://youtu.be/7D3VCGQMCYM)
+
 In this tutorial, we will learn **how to install multiple versions of the ESP32 board package in the Arduino IDE**. Once set up, you’ll have the option to choose a specific version of the ESP32 package directly from the Tools menu when compiling your code. This eliminates the hassle of uninstalling the existing package and reinstalling another version each time you need to switch.
 
 ![boards_ss](https://github.com/user-attachments/assets/15774c60-5739-41d9-ab46-b9e063ba46d6)
